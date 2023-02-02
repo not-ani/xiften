@@ -21,6 +21,9 @@
 
 - 💬 Ask me about **tRPC**
 
+- Reach me at xiften.lo1zc@simplelogin.com
+  - When you please leave contact information for something outside of email, like a twitter username and so on
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
